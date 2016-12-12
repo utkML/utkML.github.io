@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Todd Young"
 title: "[ ML ]"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: ""
+keywords: ""
 favicon: "/img/favicon.ico"
 
 ################
@@ -136,7 +136,7 @@ email: "myoung44@vols.utk.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Todd Young is a cofounder of the ML Group at the University of Tennessee."
 author_blurb_image: "/img/author.png"
 
 ##################
