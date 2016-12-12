@@ -2,6 +2,6 @@
 layout: post
 section-type: post
 title: Hello World!
-category: Category
+category: Introductions
 tags: [ 'Introductions', ]
 ---
