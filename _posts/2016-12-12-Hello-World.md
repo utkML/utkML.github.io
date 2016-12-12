@@ -6,13 +6,13 @@ category: Category
 tags: [ 'Introductions', ]
 ---
 
-<pre><code data-trim class="c">
-{% raw %}
-int main()
-{
-  printf("Hello, world of syntax highlighting!");
-
-  return 0;
-}
-{% endraw %}
-</code></pre>
+#<pre><code data-trim class="c">
+#{% raw %}
+#int main()
+#{
+#  printf("Hello, world of syntax highlighting!");
+#
+#  return 0;
+#}
+#{% endraw %}
+#</code></pre>
