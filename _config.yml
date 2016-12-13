@@ -133,7 +133,7 @@ email: "myoung44@vols.utk.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Todd Young is the founder of the ML Group at the University of Tennessee."
+author_blurb: "Todd Young is a Statistics student and founder of the ML Group at the University of Tennessee."
 author_blurb_image: "/img/author.png"
 
 ##################
