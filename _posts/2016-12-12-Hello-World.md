@@ -8,4 +8,4 @@ tags: [ 'Introductions', ]
 
 Welcome to the world of Machine Learning!
 
-![pokemon_professor](/img/professor_juniper.png)
+![pokemon_professor](/img/blog_images/professor_juniper.png)
