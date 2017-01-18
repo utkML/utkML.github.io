@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Welcome to Machine Learning at the University of Tennessee!"
   - text: "Putting our neural nets to it!"
 
-me-img: "/img/labtocat.png"
+me-img: 
 
 ##############################
 # Color the browser elements #
