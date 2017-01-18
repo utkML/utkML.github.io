@@ -111,13 +111,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "December 14, 2016"
-    description: "Founding the Group"
-
   - image: "/img/MachineLearning.jpg"
     date: "January 26, 2017"
     description: "Student Interest Meeting"
+
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "December 14, 2016"
+    description: "Founding the Group"
 
 # First image of the Timeline
 
