@@ -111,7 +111,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/MachineLearning.jpg"
+  - image: "/img/timeline/ml_interest.png"
     date: "January 26, 2017"
     description: "Student Interest Meeting"
 
