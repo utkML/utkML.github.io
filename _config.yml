@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://utkml.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,11 +12,11 @@ url: "https://panossakkos.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /ml
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-88293331-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Todd Young"
+title: "[ ML ]"
+description: ""
+keywords: ""
 favicon: "/img/favicon.ico"
 
 ################
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/night_sky.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Welcome to Machine Learning at the University of Tennessee!"
+  - text: "Putting our neural nets to it!"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/logo_icon.png"
 
 ##############################
 # Color the browser elements #
@@ -87,7 +87,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 7
 
 paginate: 5
 
@@ -97,12 +97,12 @@ twitter-share: True
 linkedin-share: True
 reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "https-utkml-github-io-ml"
 
 syntax-highlight: True
 
@@ -111,12 +111,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/ml_interest.png"
+    date: "January 26, 2017"
+    description: "Student Interest Meeting"
+
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "December 14, 2016"
+    description: "Founding the Group"
 
 # First image of the Timeline
 
@@ -126,7 +127,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "myoung44@vols.utk.edu"
 
 ################
 # Author Blurb #
@@ -136,7 +137,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Todd Young is a Statistics student and founder of the ML Group at the University of Tennessee."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -144,16 +145,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/utkML"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/Young-Todd"
 
 ############
 # 404 page #
@@ -165,9 +160,9 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-username: toddyoung
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
