@@ -7,9 +7,9 @@
 
 You can watch it in action [here](https://panossakkos.github.io/personal-jekyll-theme/)!
 
-<img src="https://github.com/panossakkos/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
+<!--<img src="https://github.com/panossakkos/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">-->
 
-<img src="https://github.com/panossakkos/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
+<!--<img src="https://github.com/panossakkos/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">-->
 
 ## What value does { Personal } add
 
@@ -80,6 +80,6 @@ One of the reasons { Personal } is real is the following OSS projects:
 
 <div style="font-size:16px;margin:0 auto;width:300px">
     <a href="https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi">
-        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+        <!--<img src="https://blockchain.info/Resources/buttons/donate_64.png"/>-->
     </a>
 </div>
