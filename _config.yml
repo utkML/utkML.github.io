@@ -12,6 +12,15 @@ url: "https://utkml.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+baseurl: /
+=======
+baseurl: "https://utkml.github.io:" 
+>>>>>>> Stashed changes
+
+>>>>>>> Stashed changes
 # Google tracking id
 
 google-tracking-id: "UA-88293331-1"
@@ -56,7 +65,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Welcome to Machine Learning at the University of Tennessee!"
   - text: "Putting our neural nets to it!"
 
-me-img: "/img/logo_icon.png"
+me-img: "/img/utkML_logo.png"
 
 ##############################
 # Color the browser elements #
