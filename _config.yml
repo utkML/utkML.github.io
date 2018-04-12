@@ -125,7 +125,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "myoung44@vols.utk.edu"
+email: ""
 
 ################
 # Author Blurb #
@@ -146,7 +146,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/utkML"
   - title: "github"
-    url: "https://github.com/Young-Todd"
+    url: ""
 
 ############
 # 404 page #
